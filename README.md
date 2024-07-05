@@ -15,5 +15,5 @@ mysql -u root < ./Database/dump.sql
 Next, execute the Python script to start the application:
 
 ```bash
-Next, execute the Python script to start the application:
+python3 CLI.py
 ```
